@@ -10,7 +10,7 @@ script_version = '4.0.0'
 window_title   = f"WARP-PLUS-CLOUDFLARE By BCSP™ (version {script_version})"
 os.system('title ' + window_title if os.name == 'nt' else 'PS1="\[\e]0;' + window_title + '\a\]"; echo $PS1')
 os.system('cls' if os.name == 'nt' else 'clear')
-print('  _       _____    ____  ____
+print('      WARP+
 | |     / /   |  / __ \/ __ \  __
 | | /| / / /| | / /_/ / /_/ /_/ /_                   | |/ |/ / ___ |/ _, _/ ____/_  __/
 |__/|__/_/  |_/_/ |_/_/     /_/
