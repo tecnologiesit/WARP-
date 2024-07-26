@@ -7,10 +7,15 @@ import time
 import os
 import sys
 script_version = '4.0.0'
-window_title   = f"WARP-PLUS-CLOUDFLARE By ALIILAPRO (version {script_version})"
+window_title   = f"WARP-PLUS-CLOUDFLARE By BCSP™ (version {script_version})"
 os.system('title ' + window_title if os.name == 'nt' else 'PS1="\[\e]0;' + window_title + '\a\]"; echo $PS1')
 os.system('cls' if os.name == 'nt' else 'clear')
-print('    _________< BCSP™ >---------_                 WARP+.          WARP+                     WARP+')
+print('  _       _____    ____  ____
+| |     / /   |  / __ \/ __ \  __
+| | /| / / /| | / /_/ / /_/ /_/ /_                   | |/ |/ / ___ |/ _, _/ ____/_  __/
+|__/|__/_/  |_/_/ |_/_/     /_/
+
+ _________                                           < BCSP™ >')
 print ("[+] ABOUT SCRIPT:")
 print ("[-] With this script, you can getting unlimited GB on Warp+.")
 print (f"[-] Version: {script_version}")
