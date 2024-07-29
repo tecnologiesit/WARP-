@@ -81,7 +81,7 @@ b = 0
 while True:
 	os.system('cls' if os.name == 'nt' else 'clear')
 	print("")
-	print("                  WARP-PLUS-CLOUDFLARE (script)" + " By ALIILAPRO")
+	print("                  WARP-PLUS-CLOUDFLARE (script)" + " By BCSP")
 	print("")
 	sys.stdout.write("\r[+] Sending request...   [□□□□□□□□□□] 0%")
 	sys.stdout.flush()
